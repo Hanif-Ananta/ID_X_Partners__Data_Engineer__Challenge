@@ -12,7 +12,7 @@
 3. Configure SQL Server connection inside `etl_pipeline.py`
 4. Run script:
 ```
-python scripts/etl_pipeline.py
+scripts/python/etl_pipeline.py
 ```
 5. Check tables in SSMS
 
