@@ -29,8 +29,10 @@ This project demonstrates a complete **ETL Data Engineering pipeline** using Pyt
 Full documentation available in `/documentation` folder.
 
 ## ▶️ How to Run ETL
+- Restore the sample database from `/data` folder first.
+- Then run the python script: 
 ```
-python scripts/etl_pipeline.py
+python scripts/python/etl_pipeline.py
 ```
 
 ## 📊 Result
