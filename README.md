@@ -32,7 +32,7 @@ Full documentation available in `/documentation` folder.
 - Restore the sample database from `/data` folder first.
 - Then run the python script: 
 ```
-python scripts/python/etl_pipeline.py
+scripts/python/etl_pipeline.py
 ```
 
 ## 📊 Result
