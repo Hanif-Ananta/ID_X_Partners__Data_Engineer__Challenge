@@ -13,7 +13,6 @@ This project demonstrates a complete **ETL Data Engineering pipeline** using Pyt
 ```
 /
 ├── documentation/
-├── sql/
 ├── scripts/
 ├── data/
 └── README.md
